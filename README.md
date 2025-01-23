@@ -1,4 +1,4 @@
-# Registro de comandos x ANKHAL
+## Registro de comandos x ANKHAL
 
 ### Objetivo
 
@@ -24,4 +24,4 @@ Para temas de automatización se recomienda ejecutar este script desde "~/.bashr
 y ejecutarlo de manera automática.
 
 
-## Con mucho cariño: ANKHAL.
+### Con mucho cariño: ANKHAL.
